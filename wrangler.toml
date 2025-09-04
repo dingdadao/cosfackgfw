@@ -1,5 +1,6 @@
-name = "cosfackparthenocissus"
+name = "mx-mgtv"
 main = "_worker.js"
 compatibility_date = "2025-08-07"
 
 keep_vars = true
+
